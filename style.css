@@ -1,0 +1,154 @@
+html{
+   scroll-behavior: smooth;
+   background-color: #f3f3fe;
+   margin: 20px 100px;
+  
+}
+
+body{
+   background-color: #ffffff;
+   padding: 30px;
+
+}
+
+.top_title h1{
+   margin-bottom: 0;
+}
+.top_title p{
+   margin-top: 5px;
+   color: #747f94;
+}
+#student_name{
+   margin-top: 55px;
+   
+}
+
+h2{
+   margin-top: 40px;
+   margin-bottom: 5px;
+}
+
+.name_content{
+   display: flex;
+   
+
+}
+.input-type{
+   margin-right: 8px;
+   padding: 12px;
+   /* height: 20px; */
+   width: 250px;
+}
+p{
+   color:#747f94;
+   font-size: 14px;
+   margin-top: 5px;
+}
+.birth_text{
+   display: flex;
+   width: 90%;
+   /* border: solid black; */
+}
+
+.gender_text{
+   display: flex;
+   width: 90%;
+   /* border: solid black; */
+   
+}
+.birth_gender{
+   /* border: solid red; */
+   display: flex;
+}
+
+.birth_box{
+   /* border: solid blue; */
+   width: 40%;
+}
+
+.gender_box{
+   /* border: solid blue; */
+   width: 50%;
+   margin-left: 100px;
+}
+.birth-option{
+   margin-right: 10px;
+   padding: 12px;
+   width: 150px;
+   
+}
+.gender-option{
+   margin-right: 10px;
+   padding: 12px;
+   width: 450px;
+}
+/* #active_select{
+   color:#747f94;
+} */
+
+.address_option{
+ width: 90%;
+ padding: 12px;
+}
+.city_state{
+   /* border: solid red; */
+   display: flex;
+   
+
+}
+.city_box{
+   /* border: solid blue; */
+   width: 50%;
+}
+.state_box{
+   /* border: solid blue; */
+   width: 50%;
+   margin-left: 50px;
+}
+.address_input{
+   padding: 12px;
+   width: 80%;
+}
+.email_mobile{
+   /* border: solid red; */
+   display: flex;
+}
+.email{
+   /* border: solid blue; */
+   width: 50%;
+   
+
+}
+.mobile{
+   /* border: solid blue; */
+   width: 50%;
+   margin-left: 30px;
+}
+.no_input{
+   padding: 12px;
+   width: 80%;
+}
+.company_input{
+   width: 40%;
+   padding: 12px;
+}
+.textarea{
+   width: 950px;
+   height: 100px;
+}
+.submit_btn{
+   margin-top: 30px;
+   
+   padding: 10px;
+   width: 100px;
+   background-color: #18bd5b;
+   color: white;
+   border: none;
+   font-weight: bold;
+}
+   
+.btn{ 
+   text-align: center;
+   
+
+}
